@@ -17,7 +17,7 @@ This project is a Django-based API system designed to process incoming messages,
 1. _Clone the repository:_
 
    ```bash
-   git clone https://github.com/abdbbdii/Whatsapp_API.git
+   git clone https://github.com/abdxdev/Whatsapp_API.git
    cd Whatsapp_API
    ```
 
